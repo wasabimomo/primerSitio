@@ -1,0 +1,40 @@
+body 
+{
+    
+    background-color:indigo;
+}
+div
+{
+        background-color: lawngreen;
+        padding: 10px;
+        width: 550;
+        height: 300px;
+        
+
+}
+div img
+{
+    width: 100px;
+    height:100px;
+}
+.clase{
+    background-image:url("../img/el-llanto-de-lionel-messi-tras-jpg_604x0.jpg");
+}
+#Titulo1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-size:15px;    
+}
+#Titulo03
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:10px;
+    color:chocolate; 
+}
+.dividir
+{
+width: 500px;
+height: 150px;
+background-color: white;    
+}
+
